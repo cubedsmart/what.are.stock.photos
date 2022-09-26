@@ -23,6 +23,6 @@ When you’re working on a new project, sourcing a professional photographer mig
 
        
 
-**Royalty-free images:** This type of license is usually how stock photography agencies sell photos. These royalty-free licenses give the buyer the rights to use the image in a certain number of ways a certain number of times. This way, the user of the photo pays for the photo once, because all of the dealmaking has been done for them in the background. 
-**Rights managed images:** This is for images that are sold on a pay-to-use basis, and are often limited to a certain period of time or for a specific project. 
-**Extended or enhanced licenses:** This type of license allows other liberties for the license, including allowances for resale and commercial uses. Many stock photo sites offer this as an option.
+* **Royalty-free images:** This type of license is usually how stock photography agencies sell photos. These royalty-free licenses give the buyer the rights to use the image in a certain number of ways a certain number of times. This way, the user of the photo pays for the photo once, because all of the dealmaking has been done for them in the background. 
+* **Rights managed images:** This is for images that are sold on a pay-to-use basis, and are often limited to a certain period of time or for a specific project. 
+* **Extended or enhanced licenses:** This type of license allows other liberties for the license, including allowances for resale and commercial uses. Many stock photo sites offer this as an option.
